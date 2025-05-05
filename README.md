@@ -1,0 +1,1 @@
+Veritas is a Python-based tool that takes an excerpt (a short quote or passage) from a loaded book (in .pdf or text format), scans through the book, and returns the page number and the full page text where that excerpt appears.
